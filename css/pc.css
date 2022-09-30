@@ -1,0 +1,53 @@
+@media (min-width: 700px){
+    .img-portada{
+        display: none;
+        width: 100%;
+
+    }
+    
+}
+
+@media (max-width: 700px) and (min-width: 100px) {
+    .img-portada1{
+        display: none;
+        width: 100%;
+    }
+   
+    
+}
+@media (min-width: 720px) and (max-width: 1180px) {
+    .title-1{
+        top: 35%;
+        left: 50%;
+    }
+}
+
+.portada2{
+    width: 100%;
+    opacity: 0.4;
+}
+@media (min-width: 900px) {
+   
+.dna1-music{
+    font-size: 6rem;
+}
+.dna-music{
+    font-size: 5rem;
+}
+.service{
+    margin-bottom: 9%;
+}
+.botton-1{
+    font-size: 4.5rem;
+}
+.nosotros{
+    font-size: 1.5rem;
+}
+.title0 {
+    font-size: 2.5rem;
+}
+
+
+}
+@media only screen and (min-device-width : 920px) {
+}
